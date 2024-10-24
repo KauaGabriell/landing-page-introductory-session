@@ -171,4 +171,8 @@ i{
     align-self: flex-end;
    }
    
+   i{
+    margin: 10px;
+   }
+
 }
